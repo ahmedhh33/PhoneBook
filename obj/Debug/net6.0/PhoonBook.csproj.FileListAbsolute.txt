@@ -1,0 +1,17 @@
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\bin\Debug\net6.0\PhoonBook.exe
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\bin\Debug\net6.0\PhoonBook.deps.json
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\bin\Debug\net6.0\PhoonBook.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\bin\Debug\net6.0\PhoonBook.dll
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\bin\Debug\net6.0\PhoonBook.pdb
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.dll
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\refint\PhoonBook.dll
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.pdb
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\ref\PhoonBook.dll
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\TRA\Desktop\TRA-Code\PhoonBook\obj\Debug\net6.0\PhoonBook.csproj.CopyComplete

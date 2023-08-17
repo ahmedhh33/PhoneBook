@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ife+iZDQjLh6CU5tl88+6pXyZdVvdSFp/MXUfh8FTOrh/jfMLejDBTP7vvNUedCTRLvUoNo51joQbPkk/xvdQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TRA\\Desktop\\TRA-Code\\PhoonBook\\PhoonBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
